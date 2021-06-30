@@ -6,5 +6,7 @@ object Ex7_10 {
     val i = list.iterator
     while (i.hasNext)
       println(i.next())
+      
+    
   }
 }
